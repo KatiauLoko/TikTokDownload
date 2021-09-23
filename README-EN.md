@@ -26,7 +26,7 @@ Batch download can directly modify the configuration file. For single video down
 
 ![Configuration screenshot](https://tvax1.sinaimg.cn/large/006908GAly1gqg5b6fbvsj30ng09iwes.jpg )
 
-2. PIP package is made for this project. You can enter ``` pip install tiktokdownload == 1.2.3 ``` to install
+2. PIP package is made for this project. You can enter ``` pip install tiktokdownload==1.2.3 ``` to install
 
 ![Pypi publishing](https://tvax3.sinaimg.cn/large/006908GAly1gqg4j7ppuij30w60nnmxz.jpg)
 
